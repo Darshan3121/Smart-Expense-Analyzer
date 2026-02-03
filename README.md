@@ -1,4 +1,4 @@
-﻿# Smart Expense Analyzer & Budget Alert System (Python)
+# Smart Expense Analyzer & Budget Alert System (Python)
 
 A real-world Python application that helps users track expenses, analyze spending patterns, visualize data, and receive budget alerts.
 
@@ -17,5 +17,6 @@ A real-world Python application that helps users track expenses, analyze spendin
 - CSV file handling
 
 ## How to Run
-pip install -r requirements.txt
+
+pip install -r requirements.txt  
 python expense_tracker.py
